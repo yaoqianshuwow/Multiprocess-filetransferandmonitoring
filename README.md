@@ -3,4 +3,5 @@
 运行命令
 g++ -o demo10 demo10.cpp
 g++ -o demo11 demo11.cpp
-./mysh
+./demo10 运行服务端端
+./mysh  运行客户端
